@@ -52,13 +52,21 @@
 ```bash
 Assets
 ├─Characters  # 人物贴图
+│  └─PV
 ├─Scenes  # 场景
-├─Scripts #脚本
+├─Scripts # 脚本
 │  ├─C# #C#脚本
 │  └─Visual Scripting #可视化脚本
+│      ├─Control
+│      └─UI
 ├─Settings  # 设置相关
 │  └─Scenes # 设置->场景
+├─sounds  # 音效
+│  └─bgm  #背景音乐
+│      └─PV
 └─Tilemap # 场景贴图
+   └─PV
+
 ```
 
 此结构为基本结构，可能会在此结构中有所调整
