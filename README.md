@@ -53,21 +53,27 @@
 
 ```bash
 Assets
+├─Animator  #动画
+│  └─UI
 ├─Characters  # 人物贴图
 │  └─PV
+├─Image # 图片
+│  └─Tilemap
 ├─Scenes  # 场景
 ├─Scripts # 脚本
-│  ├─C# #C#脚本
-│  └─Visual Scripting #可视化脚本
+│  ├─C# # C#脚本
+│  └─Visual Scripting # 可视化脚本
 │      ├─Control
 │      └─UI
 ├─Settings  # 设置相关
-│  └─Scenes # 设置->场景
+│  └─Scenes
 ├─sounds  # 音效
-│  └─bgm  #背景音乐
-│      └─PV
+│  ├─bgm  # 背景音乐
+│  │  └─PV
+│  └─Sound Effect # 音效
 └─Tilemap # 场景贴图
    └─PV
+      └─Sprite # Tilemap assets
 
 ```
 
