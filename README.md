@@ -59,6 +59,9 @@ Assets
 │  └─PV
 ├─Image # 图片
 │  └─Tilemap
+├─packages # 第三方资源包存放
+│  └─Gutty Kreum
+│      └─Kanagawa Game Assets
 ├─Scenes  # 场景
 ├─Scripts # 脚本
 │  ├─C# # C#脚本
@@ -74,7 +77,6 @@ Assets
 └─Tilemap # 场景贴图
    └─PV
       └─Sprite # Tilemap assets
-
 ```
 
 此结构为基本结构，可能会在此结构中有所调整
