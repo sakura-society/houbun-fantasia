@@ -43,11 +43,11 @@
 
 ## 项目相关
 
-此项目使用`Visual Scripting`来可视化编程
+此项目使用 `Visual Scripting`来可视化编程
 
-贴图分辨率暂时设置为`32x32`（可能会降到`16x16`）
+贴图分辨率暂时设置为 `32x32`（可能会降到 `16x16`）
 
-此项目开启了`URP(通用渲染管线)`，所以可能会导致一些并不属于`URP`的预制件导入后出现显示问题，还请自己修改
+此项目开启了 `URP(通用渲染管线)`，所以可能会导致一些并不属于 `URP`的预制件导入后出现显示问题，还请自己修改
 
 ### 文件目录
 
@@ -85,6 +85,18 @@ Assets
 
 - `E`:交互
 - `Tab`:开启/关闭背包
+
+### C#开发
+
+推荐使用VSCode，并且搭配此插件包
+
+[点击跳转到VSCode市场](https://marketplace.visualstudio.com/items?itemName=fabriciohod.unity-dev-pack&ssr=false#overview)
+
+请灵活使用 `Better Comments`插件进行注解
+
+而且请最好能注解的地方就注解一下，毕竟每个人的思想都不同
+
+此项目也正式包含了VS，但是因为VS加载比VSCode慢，所以个人还是会继续使用VSCode
 
 ## 这能联机吗？🔗
 
