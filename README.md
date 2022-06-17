@@ -25,6 +25,16 @@
   <a href="http://wpa.qq.com/msgrd?v=3&uin=3594254539&site=qq" target="_blank"><img src="https://img.shields.io/badge/QQ-EB1923.svg?&style=flat-square&logo=Tencent%20QQ&logoColor=white" alt="QQ"></a>
 </p>
 
+或者加入我们的Discord
+
+
+<p align="center">
+  <a href="https://discord.gg/D3yk8VGGck" target="_blank"><img src="https://img.shields.io/badge/Discord-5c6aff.svg?&style=flat-square&logo=Discord&logoColor=white" alt="Outlook"></a>
+</p>
+
+
+
+
 ### 我虽然不想参加制作，但是我希望一起聊天灌水催更
 
 您可以加入我们的QQ群：`851057533`
