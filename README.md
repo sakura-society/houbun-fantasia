@@ -6,3 +6,5 @@
 芳文幻想曲/芳文狂想曲 的所有仓库均已迁移到gitlab，请自行跳转至gitlab查看
 
 [gitlab群组](https://gitlab.com/hbfpt)
+
+[官网](https://kirara.sakurakoi.top)
