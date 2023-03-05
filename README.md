@@ -8,3 +8,11 @@
 [gitlab群组](https://gitlab.com/hbfpt)
 
 [官网](https://kirara.sakurakoi.top)
+
+## Attention!
+
+HoubunFantasia のすべてのリポジトリは gitlab に移行されましたので、ご自身で gitlab にジャンプしてご覧ください。
+
+[ギットラボグループ](https://gitlab.com/hbfpt)
+
+[公式サイト](https://kirara.sakurakoi.top)
